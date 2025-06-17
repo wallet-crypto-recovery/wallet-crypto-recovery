@@ -228,4 +228,6 @@ This project is licensed under the [MIT License](/LICENSE)
 
 
 
-Update: Resolved broken links in code examples
+
+
+Update:  17.06.2025 The link is now available and working perfectly.
